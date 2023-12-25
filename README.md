@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/eallyy/compy">
+  <a href="https://github.com/eallyy/alany.co">
     <img src="assets/images/emir_white.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -86,7 +86,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/eallyy/compy.git
+   git clone https://github.com/eallyy/alany.co.git
    ```
 3. Install NPM packages
    ```sh
@@ -120,7 +120,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/eallyy/compy/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/eallyy/alany.co/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,21 +158,21 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 emir@alany.co
 
-Project Link: [https://github.com/eallyy/compy](https://github.com/eallyy/compy)
+Project Link: [https://github.com/eallyy/alany.co](https://github.com/eallyy/alany.co)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/eallyy/compy.svg?style=for-the-badge
-[contributors-url]: https://github.com/eallyy/compy/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/eallyy/compy.svg?style=for-the-badge
-[forks-url]: https://github.com/eallyy/compy/network/members
-[stars-shield]: https://img.shields.io/github/stars/eallyy/compy.svg?style=for-the-badge
-[stars-url]: https://github.com/eallyy/compy/stargazers
-[issues-shield]: https://img.shields.io/github/issues/eallyy/compy.svg?style=for-the-badge
-[issues-url]: https://github.com/eallyy/compy/issues
-[license-shield]: https://img.shields.io/github/license/eallyy/compy.svg?style=for-the-badge
-[license-url]: https://github.com/eallyy/compy/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/eallyy/alany.co.svg?style=for-the-badge
+[contributors-url]: https://github.com/eallyy/alany.co/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/eallyy/alany.co.svg?style=for-the-badge
+[forks-url]: https://github.com/eallyy/alany.co/network/members
+[stars-shield]: https://img.shields.io/github/stars/eallyy/alany.co.svg?style=for-the-badge
+[stars-url]: https://github.com/eallyy/alany.co/stargazers
+[issues-shield]: https://img.shields.io/github/issues/eallyy/alany.co.svg?style=for-the-badge
+[issues-url]: https://github.com/eallyy/alany.co/issues
+[license-shield]: https://img.shields.io/github/license/eallyy/alany.co.svg?style=for-the-badge
+[license-url]: https://github.com/eallyy/alany.co/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/emir-alanyalioglu
